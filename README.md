@@ -19,7 +19,7 @@
 
 ### :star: Output
 * A contour or measure value will be outputted based on what computation you prompted.
-* Aoutput file will be created if contour is chosen with the contour points coordinates.
+* An output file will be created if contour is chosen with the contour points coordinates.
 * The visualization notebook can be run to see the graph of the most recent test case.
 
 
